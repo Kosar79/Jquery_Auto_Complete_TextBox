@@ -1,0 +1,32 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+        <script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript" language="javascript"></script>
+        <script src="jquery_AutoFill.js" type="text/javascript" language="javascript"></script>
+    </head>
+    <body>
+        <p style="font-family: arial; padding-left:5px;">Look for cities</p>
+        <span id="spn_text"></span> <!--here you will have your textbox -->
+        
+        <script type="text/javascript">
+            
+            $("#spn_text").addTextBox({     
+                "location":"spn_text", // element that holds the text box such as a div or span
+                "textBoxId":"textBoxId",//if you have more than one textbox in a page, set this unique
+                "divHintName":"divHintName",//if you have more than one textbox in a page, set this unique
+                "value":"",
+                "maxlength":"70",
+                "size":"30",
+                "textBox_css_class":"auto",//you could use your css class for textbox
+                "dropdown_css_class":"auto"//you could use your css class for textbox
+            });
+        </script>
+    </body>
+</html>
