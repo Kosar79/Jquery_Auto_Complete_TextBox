@@ -25,8 +25,8 @@ To place your text box:
                 "value":"",
                 "maxlength":"70",
                 "size":"30",
-                "textBox_css_class":"auto",//you could use your css class for textbox
-                "dropdown_css_class":"auto"//you could use your css class for textbox
+                "textBox_css_class":"auto",//you can change it to your own css class for textbox
+                "dropdown_css_class":"auto"//you can change it to your own css class for drop down list
             });
         </script>
         
