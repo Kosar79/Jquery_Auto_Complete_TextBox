@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<MainNode>
+<SubNode>New York NY</SubNode>
+<SubNode>Detroit MI</SubNode>
+<SubNode>Chicago WA</SubNode>
+<SubNode>Chicago IL</SubNode>
+<SubNode>Phoenix Arizona</SubNode>
+<SubNode>Philadelphia Pennsylvania</SubNode>
+<SubNode>San Diego California</SubNode>
+<SubNode>San Antonio Texas</SubNode>
+<SubNode>Dallas	Texas</SubNode>
+<SubNode>San Jose California</SubNode>
+<SubNode>San Francisco California</SubNode>
+<SubNode>Austin	Texas</SubNode>
+<SubNode>Charlotte North Carolina</SubNode>
+</MainNode>
