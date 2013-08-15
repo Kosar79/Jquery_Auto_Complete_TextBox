@@ -6,7 +6,8 @@ A Jquery auto complete drop down text box which reads from a xml file
 
 To place your text box:
 ========================================================
-0-You need Apache server to run this plugin (I've built by PHP 5.2.17)
+0-You need Apache server to run this plugin (I built it by PHP 5.2.17)
+
 1- Download the zipcode and copy it in your server root
 
 2-add links to js files
