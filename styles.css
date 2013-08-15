@@ -1,0 +1,50 @@
+
+.divHint {
+	display:none;
+	position:absolute;
+	color: #000;
+	background-color: #FFF;
+	padding: 5px;
+	font-family: Verdana, Geneva, sans-serif;
+	float: left;
+        width:225px;
+	border: 1px solid #8C8C8C;
+	box-shadow: 0 3px 8px rgba(0, 0, 0, .3);
+	-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .3);
+	-moz-box-shadow:  0 3px 8px rgba(0, 0, 0, .3);
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+        z-index:500;
+}
+.input {
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+        padding:5px;
+}
+.hint
+	{
+		font-family:Arial;
+		font-size:13px;
+                min-width: 191px;
+		width:auto;
+                overflow-x:hidden;
+                overflow-y:hidden;
+		padding-left:4px;
+                padding-top: 2px;
+                padding-bottom: 2px;
+                padding-right:4px;
+		color:#101010;
+
+	}
+.hint p{ display: table-cell; vertical-align: middle; text-align: center;}
+.hint:hover
+	{ 
+		cursor:pointer;
+		background-color:#849BB2;
+		font-size:13px;
+		color:#FFFFFF;
+	}
+
+
