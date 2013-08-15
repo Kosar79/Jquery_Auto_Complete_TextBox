@@ -10,7 +10,7 @@ To place your text box:
 
 1- Download the zipcode and copy it in your server root
 
-2-add links to js files
+2- add links to js files
 
         <script src="http://code.jquery.com/jquery-1.9.1.min.js" type="text/javascript" language="javascript"></script>
         <script src="jquery_AutoFill.js" type="text/javascript" language="javascript"></script>
@@ -36,6 +36,6 @@ To place your text box:
 just make to change it in $("#spn_text").addTextBox and "location":"spn_text"
 Also you can customise it to some degree such as size, css class for text box and drop down list
 
-5-Fill out source.xml with items you want to be viewed based on user input(in the example it has name of cities). 
+5- Fill out source.xml with items you want to be viewed based on user input(in the example it has name of cities). 
 
 6- You are all set! Contact me with any question or feedback or comments (kosarh79@gmail.com)
