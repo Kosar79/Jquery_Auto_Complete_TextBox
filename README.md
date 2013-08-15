@@ -36,4 +36,4 @@ Also you can customise it to some degree such as size, css class for text box an
 
 5-Fill out source.xml with items you want to be viewed based on user input(in the example it has name of cities). 
 
-6- You are all set! Contact with any question or feedback or comments (kosarh79@gmail.com)
+6- You are all set! Contact me with any question or feedback or comments (kosarh79@gmail.com)
